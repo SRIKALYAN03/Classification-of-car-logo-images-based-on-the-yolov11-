@@ -1,5 +1,5 @@
 # Classification-of-car-logo-images-based-on-the-yolov11
-# **YOLOv11 Classification Model Training and Deployment**
+
 
 This repository contains a Python implementation for organizing datasets, training a classification model using YOLOv11, and deploying it for real-world applications. The project is designed to handle custom datasets and provides a complete pipeline from dataset preparation to model saving.
 
